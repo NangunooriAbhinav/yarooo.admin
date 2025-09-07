@@ -1,4 +1,4 @@
-export const apiRoute = "https://yaro.lyzn.coffeecodes.in/";
+export const apiRoute = "https://yaro.lyzn.coffeecodes.in";
 
 export const getAuthHeaders = () => {
   const token =
